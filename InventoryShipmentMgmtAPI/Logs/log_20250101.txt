@@ -1,0 +1,151 @@
+2025-01-01 15:38:25 - SaveProductDetails() Repository execution process started at {'01-01-2025 15:38:25'} 
+2025-01-01 15:38:27 - CreateNewProduct(), Product added successfully at {'01-01-2025 15:38:27'}
+2025-01-01 15:39:10 - UpdateProductDetails() Repository execution process started at {'01-01-2025 15:39:10'} for productId='1019'
+2025-01-01 15:39:10 - UpdateProduct(), Product updated successfully at {'01-01-2025 15:39:10'}
+2025-01-01 15:39:48 - GetProductById() Repository execution process started at {'01-01-2025 15:39:48'} for productId='1016' 
+2025-01-01 15:39:48 - GetProductById(), Product reterived successfully at {'01-01-2025 15:39:48'}
+2025-01-01 15:40:07 - GetAllProducts() Repository execution process started at {'01-01-2025 15:40:07'} 
+2025-01-01 15:40:07 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:40:07'}
+2025-01-01 15:40:30 - DeleteProductDetails() Repository execution process started at {'01-01-2025 15:40:30'} for productId='1020' 
+2025-01-01 15:40:30 - DeleteProduct(), Product deleted successfully at {'01-01-2025 15:40:30'}
+2025-01-01 15:40:50 - DeleteProductDetails() Repository execution process started at {'01-01-2025 15:40:50'} for productId='1019' 
+2025-01-01 15:40:50 - DeleteProduct(), Product deleted successfully at {'01-01-2025 15:40:50'}
+2025-01-01 15:41:01 - DeleteProductDetails() Repository execution process started at {'01-01-2025 15:41:01'} for productId='1018' 
+2025-01-01 15:41:01 - DeleteProduct(), Product deleted successfully at {'01-01-2025 15:41:01'}
+2025-01-01 15:54:53 - GetAllProducts() Repository execution process started at {'01-01-2025 15:54:53'} 
+2025-01-01 15:54:55 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:54:55'}
+2025-01-01 15:55:37 - DeleteProductDetails() Repository execution process started at {'01-01-2025 15:55:37'} for productId='1016' 
+2025-01-01 15:55:37 - DeleteProduct(), Product deleted successfully at {'01-01-2025 15:55:37'}
+2025-01-01 15:55:44 - GetAllProducts() Repository execution process started at {'01-01-2025 15:55:44'} 
+2025-01-01 15:55:44 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:55:44'}
+2025-01-01 15:56:36 - GetAllProducts() Repository execution process started at {'01-01-2025 15:56:36'} 
+2025-01-01 15:56:36 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:56:36'}
+2025-01-01 15:56:45 - GetProductById() Repository execution process started at {'01-01-2025 15:56:45'} for productId='1003' 
+2025-01-01 15:56:45 - GetProductById(), Product reterived successfully at {'01-01-2025 15:56:45'}
+2025-01-01 15:56:51 - UpdateProductDetails() Repository execution process started at {'01-01-2025 15:56:51'} for productId='1003'
+2025-01-01 15:56:52 - UpdateProduct(), Product updated successfully at {'01-01-2025 15:56:52'}
+2025-01-01 15:56:54 - GetAllProducts() Repository execution process started at {'01-01-2025 15:56:54'} 
+2025-01-01 15:56:54 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:56:54'}
+2025-01-01 15:59:32 - GetAllProducts() Repository execution process started at {'01-01-2025 15:59:32'} 
+2025-01-01 15:59:32 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 15:59:32'}
+2025-01-01 15:59:43 - GetProductById() Repository execution process started at {'01-01-2025 15:59:43'} for productId='1003' 
+2025-01-01 15:59:43 - GetProductById(), Product reterived successfully at {'01-01-2025 15:59:43'}
+2025-01-01 15:59:51 - UpdateProductDetails() Repository execution process started at {'01-01-2025 15:59:51'} for productId='1003'
+2025-01-01 15:59:51 - UpdateProduct(), Product updated successfully at {'01-01-2025 15:59:51'}
+2025-01-01 16:02:25 - GetAllProducts() Repository execution process started at {'01-01-2025 16:02:25'} 
+2025-01-01 16:02:25 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:02:25'}
+2025-01-01 16:02:29 - GetProductById() Repository execution process started at {'01-01-2025 16:02:29'} for productId='1003' 
+2025-01-01 16:02:29 - GetProductById(), Product reterived successfully at {'01-01-2025 16:02:29'}
+2025-01-01 16:02:36 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:02:36'} for productId='1003'
+2025-01-01 16:02:36 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:02:36'}
+2025-01-01 16:02:38 - GetAllProducts() Repository execution process started at {'01-01-2025 16:02:38'} 
+2025-01-01 16:02:38 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:02:38'}
+2025-01-01 16:04:08 - GetAllProducts() Repository execution process started at {'01-01-2025 16:04:08'} 
+2025-01-01 16:04:08 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:04:08'}
+2025-01-01 16:04:10 - GetProductById() Repository execution process started at {'01-01-2025 16:04:10'} for productId='1003' 
+2025-01-01 16:04:10 - GetProductById(), Product reterived successfully at {'01-01-2025 16:04:10'}
+2025-01-01 16:04:15 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:04:15'} for productId='1003'
+2025-01-01 16:04:15 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:04:15'}
+2025-01-01 16:04:16 - GetAllProducts() Repository execution process started at {'01-01-2025 16:04:16'} 
+2025-01-01 16:04:16 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:04:16'}
+2025-01-01 16:06:40 - GetAllProducts() Repository execution process started at {'01-01-2025 16:06:40'} 
+2025-01-01 16:06:40 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:06:40'}
+2025-01-01 16:06:42 - GetProductById() Repository execution process started at {'01-01-2025 16:06:42'} for productId='1003' 
+2025-01-01 16:06:42 - GetProductById(), Product reterived successfully at {'01-01-2025 16:06:42'}
+2025-01-01 16:06:47 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:06:47'} for productId='1003'
+2025-01-01 16:06:47 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:06:47'}
+2025-01-01 16:06:49 - GetAllProducts() Repository execution process started at {'01-01-2025 16:06:49'} 
+2025-01-01 16:06:49 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:06:49'}
+2025-01-01 16:08:20 - GetAllProducts() Repository execution process started at {'01-01-2025 16:08:20'} 
+2025-01-01 16:08:20 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:08:20'}
+2025-01-01 16:08:22 - GetProductById() Repository execution process started at {'01-01-2025 16:08:22'} for productId='1003' 
+2025-01-01 16:08:22 - GetProductById(), Product reterived successfully at {'01-01-2025 16:08:22'}
+2025-01-01 16:08:26 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:08:26'} for productId='1003'
+2025-01-01 16:08:26 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:08:26'}
+2025-01-01 16:08:28 - GetAllProducts() Repository execution process started at {'01-01-2025 16:08:28'} 
+2025-01-01 16:08:28 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:08:28'}
+2025-01-01 16:09:50 - GetAllProducts() Repository execution process started at {'01-01-2025 16:09:50'} 
+2025-01-01 16:09:50 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:09:50'}
+2025-01-01 16:09:53 - GetProductById() Repository execution process started at {'01-01-2025 16:09:53'} for productId='1003' 
+2025-01-01 16:09:53 - GetProductById(), Product reterived successfully at {'01-01-2025 16:09:53'}
+2025-01-01 16:09:59 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:09:59'} for productId='1003'
+2025-01-01 16:09:59 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:09:59'}
+2025-01-01 16:10:01 - GetAllProducts() Repository execution process started at {'01-01-2025 16:10:01'} 
+2025-01-01 16:10:01 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:10:01'}
+2025-01-01 16:10:17 - GetAllProducts() Repository execution process started at {'01-01-2025 16:10:17'} 
+2025-01-01 16:10:17 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:10:17'}
+2025-01-01 16:10:22 - GetProductById() Repository execution process started at {'01-01-2025 16:10:22'} for productId='1003' 
+2025-01-01 16:10:22 - GetProductById(), Product reterived successfully at {'01-01-2025 16:10:22'}
+2025-01-01 16:10:26 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:10:26'} for productId='1003'
+2025-01-01 16:10:26 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:10:26'}
+2025-01-01 16:11:23 - GetAllProducts() Repository execution process started at {'01-01-2025 16:11:23'} 
+2025-01-01 16:11:23 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:11:23'}
+2025-01-01 16:11:25 - GetProductById() Repository execution process started at {'01-01-2025 16:11:25'} for productId='1003' 
+2025-01-01 16:11:25 - GetProductById(), Product reterived successfully at {'01-01-2025 16:11:25'}
+2025-01-01 16:11:31 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:11:31'} for productId='1003'
+2025-01-01 16:11:31 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:11:31'}
+2025-01-01 16:11:32 - GetAllProducts() Repository execution process started at {'01-01-2025 16:11:32'} 
+2025-01-01 16:11:32 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:11:32'}
+2025-01-01 16:27:58 - GetAllProducts() Repository execution process started at {'01-01-2025 16:27:58'} 
+2025-01-01 16:27:58 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:27:58'}
+2025-01-01 16:28:01 - GetProductById() Repository execution process started at {'01-01-2025 16:28:01'} for productId='1003' 
+2025-01-01 16:28:01 - GetProductById(), Product reterived successfully at {'01-01-2025 16:28:01'}
+2025-01-01 16:28:03 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:28:03'} for productId='1003'
+2025-01-01 16:28:03 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:28:03'}
+2025-01-01 16:28:05 - GetAllProducts() Repository execution process started at {'01-01-2025 16:28:05'} 
+2025-01-01 16:28:05 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:28:05'}
+2025-01-01 16:29:00 - GetAllProducts() Repository execution process started at {'01-01-2025 16:29:00'} 
+2025-01-01 16:29:00 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:29:00'}
+2025-01-01 16:29:01 - GetProductById() Repository execution process started at {'01-01-2025 16:29:01'} for productId='1003' 
+2025-01-01 16:29:01 - GetProductById(), Product reterived successfully at {'01-01-2025 16:29:01'}
+2025-01-01 16:29:03 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:29:03'} for productId='1003'
+2025-01-01 16:29:03 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:29:03'}
+2025-01-01 16:29:42 - GetAllProducts() Repository execution process started at {'01-01-2025 16:29:42'} 
+2025-01-01 16:29:42 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:29:42'}
+2025-01-01 16:29:45 - GetProductById() Repository execution process started at {'01-01-2025 16:29:45'} for productId='1003' 
+2025-01-01 16:29:45 - GetProductById(), Product reterived successfully at {'01-01-2025 16:29:45'}
+2025-01-01 16:29:48 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:29:48'} for productId='1003'
+2025-01-01 16:29:48 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:29:48'}
+2025-01-01 16:29:49 - GetAllProducts() Repository execution process started at {'01-01-2025 16:29:49'} 
+2025-01-01 16:29:49 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:29:49'}
+2025-01-01 16:30:12 - GetProductById() Repository execution process started at {'01-01-2025 16:30:12'} for productId='1003' 
+2025-01-01 16:30:12 - GetProductById(), Product reterived successfully at {'01-01-2025 16:30:12'}
+2025-01-01 16:30:14 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:30:14'} for productId='1003'
+2025-01-01 16:30:14 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:30:14'}
+2025-01-01 16:30:15 - GetAllProducts() Repository execution process started at {'01-01-2025 16:30:15'} 
+2025-01-01 16:30:15 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:30:15'}
+2025-01-01 16:49:20 - GetAllProducts() Repository execution process started at {'01-01-2025 16:49:20'} 
+2025-01-01 16:49:20 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:49:20'}
+2025-01-01 16:49:47 - GetProductById() Repository execution process started at {'01-01-2025 16:49:47'} for productId='1007' 
+2025-01-01 16:49:47 - GetProductById(), Product reterived successfully at {'01-01-2025 16:49:47'}
+2025-01-01 16:49:52 - UpdateProductDetails() Repository execution process started at {'01-01-2025 16:49:52'} for productId='1007'
+2025-01-01 16:49:52 - UpdateProduct(), Product updated successfully at {'01-01-2025 16:49:52'}
+2025-01-01 16:49:53 - GetAllProducts() Repository execution process started at {'01-01-2025 16:49:53'} 
+2025-01-01 16:49:53 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 16:49:53'}
+2025-01-01 19:56:21 - GetAllProducts() Repository execution process started at {'01-01-2025 19:56:21'} 
+2025-01-01 19:57:28 - GetAllProducts() Repository execution process started at {'01-01-2025 19:57:28'} 
+2025-01-01 19:57:32 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 19:57:32'}
+2025-01-01 19:59:31 - GetAllProducts() Repository execution process started at {'01-01-2025 19:59:31'} 
+2025-01-01 19:59:33 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 19:59:33'}
+2025-01-01 20:00:23 - GetAllProducts() Repository execution process started at {'01-01-2025 20:00:23'} 
+2025-01-01 20:00:24 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 20:00:24'}
+2025-01-01 20:02:20 - GetAllProducts() Repository execution process started at {'01-01-2025 20:02:20'} 
+2025-01-01 20:02:20 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 20:02:20'}
+2025-01-01 20:02:28 - GetProductById() Repository execution process started at {'01-01-2025 20:02:28'} for productId='1022' 
+2025-01-01 20:02:29 - GetProductById(), Product reterived successfully at {'01-01-2025 20:02:29'}
+2025-01-01 20:03:02 - DeleteProductDetails() Repository execution process started at {'01-01-2025 20:03:02'} for productId='1022' 
+2025-01-01 20:03:03 - DeleteProduct(), Product deleted successfully at {'01-01-2025 20:03:03'}
+2025-01-01 20:03:04 - GetAllProducts() Repository execution process started at {'01-01-2025 20:03:04'} 
+2025-01-01 20:03:04 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 20:03:04'}
+2025-01-01 20:06:36 - GetProductById() Repository execution process started at {'01-01-2025 20:06:36'} for productId='1002' 
+2025-01-01 20:06:38 - GetProductById(), Product reterived successfully at {'01-01-2025 20:06:38'}
+2025-01-01 20:06:58 - GetAllProducts() Repository execution process started at {'01-01-2025 20:06:58'} 
+2025-01-01 20:06:58 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 20:06:58'}
+2025-01-01 20:09:07 - GetProductById() Repository execution process started at {'01-01-2025 20:09:07'} for productId='1002' 
+2025-01-01 20:09:10 - GetProductById(), Product reterived successfully at {'01-01-2025 20:09:10'}
+2025-01-01 20:12:43 - GetProductById() Repository execution process started at {'01-01-2025 20:12:43'} for productId='1003' 
+2025-01-01 20:12:45 - GetProductById(), Product reterived successfully at {'01-01-2025 20:12:45'}
+2025-01-01 20:18:22 - GetProductById() Repository execution process started at {'01-01-2025 20:18:22'} for productId='1002' 
+2025-01-01 20:18:27 - GetProductById(), Product reterived successfully at {'01-01-2025 20:18:27'}
+2025-01-01 20:19:44 - GetAllProducts() Repository execution process started at {'01-01-2025 20:19:44'} 
+2025-01-01 20:19:44 - GetAllProducts(), All Product reterived successfully at {'01-01-2025 20:19:44'}
